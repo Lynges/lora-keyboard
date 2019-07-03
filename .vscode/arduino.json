@@ -1,0 +1,6 @@
+{
+    "programmer": "AVRISP mkII",
+    "board": "adafruit:avr:feather32u4",
+    "port": "/dev/ttyACM0",
+    "sketch": "sketch_receiver/receiver.ino"
+}
